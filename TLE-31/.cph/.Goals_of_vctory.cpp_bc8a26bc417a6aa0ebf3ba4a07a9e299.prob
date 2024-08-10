@@ -1,0 +1,1 @@
+{"name":"Local: Goals_of_vctory","url":"c:\\Users\\HP\\Desktop\\cp\\TLE-31\\Goals_of_vctory.cpp","tests":[{"id":1723299774064,"input":"2\n4\n3 -4 5\n11\n-30 12 -57 7 0 -81 -68 41 -89 0\n","output":"-4\n265"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\cp\\TLE-31\\Goals_of_vctory.cpp","group":"local","local":true}
