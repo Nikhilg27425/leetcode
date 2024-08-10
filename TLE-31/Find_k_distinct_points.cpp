@@ -1,3 +1,4 @@
+
 #include<bits/stdc++.h>
 using namespace std ;
 int main(){
@@ -7,12 +8,16 @@ int main(){
         int xc ,yc ,k ;
         cin>>xc>>yc>>k ;
         int a = 1 ;
-        int b= 1;
+        int b= 5;
         int ansx = xc*k ;
         int ansy = yc*k ;
         int sum_a = 1;
-        int sum_b =1 ;
-        while(k--){
+        int sum_b =5 ;
+        if(k==1){
+            cout<<xc<<" "<<yc<<endl ;
+        }
+        else{
+            while(k--){
             if(k==0){
                 int xx = ansx - sum_a ;
                 int yy = ansy - sum_b ;
@@ -28,6 +33,8 @@ int main(){
                 sum_b += b ;
             }
         }
+        }
+        
     }
     return 0 ;
 }
