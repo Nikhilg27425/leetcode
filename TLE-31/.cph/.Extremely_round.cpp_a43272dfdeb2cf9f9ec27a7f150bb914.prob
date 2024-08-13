@@ -1,0 +1,1 @@
+{"name":"Local: Extremely_round","url":"c:\\Users\\HP\\Desktop\\cp\\TLE-31\\Extremely_round.cpp","tests":[{"id":1723470721279,"input":"5\n1\n42\n13\n100\n111\n","output":"1\n13\n10\n19\n19\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\cp\\TLE-31\\Extremely_round.cpp","group":"local","local":true}

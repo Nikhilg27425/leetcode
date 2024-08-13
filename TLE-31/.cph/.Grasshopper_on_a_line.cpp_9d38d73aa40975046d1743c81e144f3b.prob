@@ -1,0 +1,1 @@
+{"name":"Local: Grasshopper_on_a_line","url":"c:\\Users\\HP\\Desktop\\cp\\TLE-31\\Grasshopper_on_a_line.cpp","tests":[{"id":1723357970743,"input":"4\n10 2\n10 3\n3 4\n12 2\n","output":"2\n7 3\n1\n10\n1\n3\n1\n12\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\Desktop\\cp\\TLE-31\\Grasshopper_on_a_line.cpp","group":"local","local":true}
